@@ -1,0 +1,5 @@
+name: EliteNether
+version: '1.0-ALPHA '
+main: io.starseed.eliteNeth.EliteNeth
+api-version: '1.21'
+depend: [CoinsEngine]

@@ -1,0 +1,18 @@
+Version: 1
+
+Settings:
+  Prefix: "&8[&cEliteNether&8]"
+  Nether_World_Name: "elite_nether"
+  Max_Time_Minutes: 60
+  Cooldown_Hours: 24
+
+Messages:
+  No_Permission: "{prefix} &cYou don't have permission to use this command!"
+  Time_Left: "{prefix} &7You have &c{time} &7remaining in the nether."
+  Time_Expired: "{prefix} &cYour time in the nether has expired! You have been teleported back."
+  Cooldown_Active: "{prefix} &cYou must wait &e{time} &cbefore entering the nether again!"
+  Entered_Nether: "{prefix} &7You have entered the nether! You have &c{time} &7remaining."
+  Already_In_Nether: "{prefix} &cYou are already in the nether!"
+
+Trade:
+  Menu_Title: "&8Nether Trader"
